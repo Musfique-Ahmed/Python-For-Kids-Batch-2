@@ -1,0 +1,28 @@
+		Welcome To Our Retail Store
+
+ Bill Number : 1057
+ Customer Name : ANIK
+ Phone Number : 09137540987
+==============================================
+ Products		QTY		Price
+==============================================
+ ---- Cosmetics ----
+
+ Bath Soap		5		Tk. 200.00
+ Face Cream		2		Tk. 240.00
+ Hair Gel		1		Tk. 90.00
+ ---- Grocery ----
+
+ Daal		12		Tk. 1560.00
+ ---- Cold Drinks ----
+
+ Water		20		Tk. 400.00
+ Lemon		2		Tk. 30.00
+ Pizza		1		Tk. 500.00
+----------------------------------------------
+ Cosmetic Tax:			Tk. 26.50
+ Grocery Tax:			Tk. 31.20
+ Cold Drink Tax:			Tk. 93.00
+----------------------------------------------
+ Total Bill:			Tk. 3170.70
+----------------------------------------------

@@ -1,0 +1,26 @@
+		Welcome To Our Retail Store
+
+ Bill Number : 6890
+ Customer Name : Anik
+ Phone Number : 1412
+==============================================
+ Products		QTY		Price
+==============================================
+ ---- Cosmetics ----
+
+ Bath Soap		45		Tk. 1800.00
+ ---- Grocery ----
+
+ Rice		3		Tk. 240.00
+ Wheat		7		Tk. 420.00
+ ---- Cold Drinks ----
+
+ Lemon		17		Tk. 255.00
+ Pizza		2		Tk. 1000.00
+----------------------------------------------
+ Cosmetic Tax:			Tk. 90.00
+ Grocery Tax:			Tk. 13.20
+ Cold Drink Tax:			Tk. 125.50
+----------------------------------------------
+ Total Bill:			Tk. 3943.70
+----------------------------------------------
