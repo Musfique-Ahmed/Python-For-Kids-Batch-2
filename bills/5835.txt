@@ -1,0 +1,26 @@
+		Welcome To Our Retail Store
+
+ Bill Number : 5835
+ Customer Name : aniolhjn
+ Phone Number : 1243 3451
+==============================================
+ Products		QTY		Price
+==============================================
+ ---- Cosmetics ----
+
+ Face Wash		1		Tk. 150.00
+ Hair Spray		1		Tk. 250.00
+ ---- Grocery ----
+
+ Rice		2		Tk. 160.00
+ Sugar		3		Tk. 300.00
+ ---- Cold Drinks ----
+
+ Pizza		5		Tk. 2500.00
+----------------------------------------------
+ Cosmetic Tax:			Tk. 20.00
+ Grocery Tax:			Tk. 9.20
+ Cold Drink Tax:			Tk. 250.00
+----------------------------------------------
+ Total Bill:			Tk. 3639.20
+----------------------------------------------
