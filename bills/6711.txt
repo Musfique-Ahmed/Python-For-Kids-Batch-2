@@ -1,0 +1,24 @@
+		Welcome To Our Retail Store
+
+ Bill Number : 6711
+ Customer Name : awsegta
+ Phone Number : a34563
+==============================================
+ Products		QTY		Price
+==============================================
+ ---- Cosmetics ----
+
+ Hair Spray		2		Tk. 500.00
+ ---- Grocery ----
+
+ Sugar		6		Tk. 600.00
+ ---- Cold Drinks ----
+
+ Lemon		7		Tk. 105.00
+----------------------------------------------
+ Cosmetic Tax:			Tk. 25.00
+ Grocery Tax:			Tk. 12.00
+ Cold Drink Tax:			Tk. 10.50
+----------------------------------------------
+ Total Bill:			Tk. 1252.50
+----------------------------------------------
