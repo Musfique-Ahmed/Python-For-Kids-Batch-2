@@ -31,30 +31,41 @@
 
 # turtle.done()
 
+# import turtle
+# screen= turtle.Screen()
+# t=turtle.Turtle()
+
+
+# t.forward(50)
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+
+# t.right(45)
+# t.forward(50)
+# turtle.done()
+
+
 import turtle
-screen= turtle.Screen()
-t=turtle.Turtle()
 
+screen = turtle.Screen()  
+t = turtle.Turtle()      
+for _ in range(6):
+    t.forward(100)  
+    t.right(60)     
 
-t.forward(50)
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
-
-t.right(45)
-t.forward(50)
 turtle.done()
